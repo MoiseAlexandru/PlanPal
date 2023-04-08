@@ -1,0 +1,19 @@
+{
+  "name": "planpal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/annemarie04/PlanPal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annemarie04/PlanPal/issues"
+  },
+  "homepage": "https://github.com/annemarie04/PlanPal#readme"
+}
